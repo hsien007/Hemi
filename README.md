@@ -1,4 +1,4 @@
-# Hemi Net()work
+# Hemi Network
 
 #
 #
